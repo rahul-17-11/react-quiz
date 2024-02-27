@@ -134,6 +134,17 @@
       ],
       "correctOption": 3,
       "points": 20
+    },
+    {
+      "question": "Who is Bobo?",
+      "options": [
+        "Idiot",
+        "Chocolate Boy",
+        "Don't Know!",
+        "The Mysterious Person"
+      ],
+      "correctOption": 3,
+      "points": 20
     }
   ]
 }
