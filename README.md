@@ -1,61 +1,56 @@
-# EduQuiz - AI-Powered Educational Gamification App
+# 📚 EduQuiz - AI-Powered Educational Gamification App 🚀
 
-![EduQuiz](your-image-link-here)
+![EduQuiz Banner](./assets/banner.png)
 
-EduQuiz is an AI-powered educational gamification platform that enhances learning through interactive quizzes, leaderboards, and analytics. The platform is built using React and Firebase, offering an engaging experience for students.
+## 🌟 Overview
+EduQuiz is an **AI-powered educational gamification platform** built with **React** and **Firebase**. It offers interactive quizzes, AI-driven performance analysis, leaderboards, badges, and a personalized learning experience.
 
-## 🚀 Features
-- 🔐 **User Authentication**: Secure login and registration.
-- 🏆 **Gamification**: Points, badges, and leaderboards.
-- 📊 **Analytics**: Performance tracking with AI-driven insights.
-- 🤖 **AI-Powered Quiz Generation**: Dynamic quizzes generated using Google Generative AI.
-- 📜 **Categories**: Covers various subjects like Web Development, Cloud Computing, AI, Networking, and Linux.
+## 🎯 Features
+- 🧠 **AI-Powered Quiz Generation** using Google Generative AI.
+- 🏆 **Gamification Elements** (badges, leaderboards, levels).
+- 📊 **Performance Analytics** and quiz history tracking.
+- 🔐 **User Authentication** with Firebase.
+- 🎨 **Modern UI/UX** with animations and smooth interactions.
 
-## 🛠 Tech Stack
-- **Frontend**: React (Vite), Redux, Framer Motion, Tailwind CSS
-- **Backend**: Firebase Authentication & Firestore
-- **Libraries**: React Router, Axios, Lucide Icons, Recharts
-- **AI Integration**: Google Generative AI for quiz generation
+## 🚀 Tech Stack
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 ## 📸 Screenshots
-### Dashboard
-![Dashboard](your-image-link-here)
+### 🎮 Dashboard
+![Dashboard](./screenshots/dashboard.png)
+### 👤 Profile Page
+![Profile](./screenshots/profile.png)
+### 📊 Progress Report
+![Progress Report](./screenshots/progress_report.png)
 
-### Profile Page
-![Profile](your-image-link-here)
-
-### Progress Report
-![Progress](your-image-link-here)
-
-## 🏗 Installation & Setup
+## 🛠 Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/EduQuiz.git
+   git clone https://github.com/yourusername/EduQuiz.git
+   ```
+2. Navigate to the project folder:
+   ```sh
    cd EduQuiz
    ```
-2. Install dependencies:
+3. Install dependencies:
    ```sh
    npm install
    ```
-3. Start the development server:
+4. Start the development server:
    ```sh
    npm run dev
    ```
-4. Configure Firebase:
-   - Create a Firebase project
-   - Set up Firestore and Authentication
-   - Add your Firebase config in `.env` file
 
-## 🤝 Contributing
-Contributions are welcome! To contribute:
-1. Fork the repo
-2. Create a new branch (`git checkout -b feature-branch`)
-3. Commit changes (`git commit -m 'Add new feature'`)
-4. Push to branch (`git push origin feature-branch`)
-5. Create a pull request
+## 🔥 Contributing
+Contributions are welcome! Feel free to fork this repository, make changes, and submit a pull request. 😊
 
-## 📜 License
-This project is licensed under the MIT License.
+## 📬 Contact
+📩 Email: your.email@example.com  
+🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
+💼 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
 
-## 📞 Contact
-For queries, reach out to [your-email@example.com](mailto:your-email@example.com).
+---
+💡 **"Learning is fun when it's gamified!"** 🚀
