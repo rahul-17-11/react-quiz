@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+# EduQuiz - AI-Powered Educational Gamification App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![EduQuiz](your-image-link-here)
 
-## Available Scripts
+EduQuiz is an AI-powered educational gamification platform that enhances learning through interactive quizzes, leaderboards, and analytics. The platform is built using React and Firebase, offering an engaging experience for students.
 
-In the project directory, you can run:
+## 🚀 Features
+- 🔐 **User Authentication**: Secure login and registration.
+- 🏆 **Gamification**: Points, badges, and leaderboards.
+- 📊 **Analytics**: Performance tracking with AI-driven insights.
+- 🤖 **AI-Powered Quiz Generation**: Dynamic quizzes generated using Google Generative AI.
+- 📜 **Categories**: Covers various subjects like Web Development, Cloud Computing, AI, Networking, and Linux.
 
-### `npm start`
+## 🛠 Tech Stack
+- **Frontend**: React (Vite), Redux, Framer Motion, Tailwind CSS
+- **Backend**: Firebase Authentication & Firestore
+- **Libraries**: React Router, Axios, Lucide Icons, Recharts
+- **AI Integration**: Google Generative AI for quiz generation
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 📸 Screenshots
+### Dashboard
+![Dashboard](your-image-link-here)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Profile Page
+![Profile](your-image-link-here)
 
-### `npm test`
+### Progress Report
+![Progress](your-image-link-here)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🏗 Installation & Setup
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-username/EduQuiz.git
+   cd EduQuiz
+   ```
+2. Install dependencies:
+   ```sh
+   npm install
+   ```
+3. Start the development server:
+   ```sh
+   npm run dev
+   ```
+4. Configure Firebase:
+   - Create a Firebase project
+   - Set up Firestore and Authentication
+   - Add your Firebase config in `.env` file
 
-### `npm run build`
+## 🤝 Contributing
+Contributions are welcome! To contribute:
+1. Fork the repo
+2. Create a new branch (`git checkout -b feature-branch`)
+3. Commit changes (`git commit -m 'Add new feature'`)
+4. Push to branch (`git push origin feature-branch`)
+5. Create a pull request
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📜 License
+This project is licensed under the MIT License.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 📞 Contact
+For queries, reach out to [your-email@example.com](mailto:your-email@example.com).
